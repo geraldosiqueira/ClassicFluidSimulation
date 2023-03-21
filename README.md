@@ -6,3 +6,5 @@ The analyzed physical system is the classical fluid system. In here, the models 
 In order to simulate this system, I used Python. 
 The tecnique used was the Monte Carlo Steps method to evolve the system and make it behave like a classical fluid. 
 Also, very important for the simulation, is the establishment of periodic boundary conditions in all systems, both 1D as 2D, so that we simulate an “infinite” fluid. This is possible by making the boundary condition of a side being the state of the opposite side.
+
+the parameters were pre-established by the system I wanted to simulate, following metrics that would make the calculation more coherent.
