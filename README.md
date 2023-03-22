@@ -11,4 +11,4 @@ The parameters were pre-established by the system I wanted to simulate, followin
 G(x) is the radial distribution function
 L, Lx and Ly are the size parameters (1D and 2D)
 N is the ammount of particles
-σ is the radius os teh particles
+σ is the radius os the particles
