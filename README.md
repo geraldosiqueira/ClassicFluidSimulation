@@ -1,6 +1,6 @@
-# ClassicFluidSimulation
+# ClassicalFluidSimulation
 
-Classic Fluid Simulation for 1D and 2D analysis
+Classical Fluid Simulation for 1D and 2D analysis
 
 The analyzed physical system is the classical fluid system. In here, the models of rigid rods and rigid disks will be used to represent the 1D and 2D systems of classical fluids. 
 In order to simulate this system, I used Python. 
