@@ -9,10 +9,10 @@ Also, very important for the simulation, is the establishment of periodic bounda
 
 The parameters were pre-established by the system I wanted to simulate, following metrics that would make the calculation more coherent.
 ### Parameters:
-G(x) is the radial distribution function
-L, Lx and Ly are the size parameters (1D and 2D)
-N is the ammount of particles
-σ is the radius os the particles
+* G(x) is the radial distribution function
+* L, Lx and Ly are the size parameters (1D and 2D)
+* N is the ammount of particles
+* σ is the radius os the particles
 
 ATTENTION: Due to difficulties previous to achieving the simulations, there are some commented parts in the Monte Carlo step for the 2D model that I did not refine after I had the desired results. But these parts are redundant and are not supposed to be uncommented.
 
